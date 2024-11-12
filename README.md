@@ -1,1 +1,1 @@
-# WOHI 2024
+# this is a project for web programmig course
